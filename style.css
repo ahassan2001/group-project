@@ -49,3 +49,8 @@ main h2 {
     background-color: green;
     color: white;
 }
+.ahmeds-style {
+    color: black;
+    background-color: darkred;
+    padding: 3px;
+}
